@@ -1,4 +1,4 @@
-# ES6 Shim
+# ES6 Shim (набор готовых полифиллов ES6)
 Provides compatibility shims so that legacy JavaScript engines behave as
 closely as possible to ECMAScript 6 (Harmony).
 
